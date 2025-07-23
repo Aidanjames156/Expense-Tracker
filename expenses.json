@@ -1,14 +1,20 @@
 [
   {
-    "ID": 1,
-    "Date": "2025-07-23 12:44:02",
-    "description": "Groceries",
-    "amount": "20"
-  },
-  {
     "ID": 2,
     "Date": "2025-07-23T12:57:00.989174",
     "description": "phone",
     "amount": 35.0
+  },
+  {
+    "ID": 3,
+    "Date": "2025-07-23T14:10:04.555618",
+    "description": "gas",
+    "amount": 72.5
+  },
+  {
+    "ID": 4,
+    "Date": "2025-07-23T14:11:44.465087",
+    "description": "groceries",
+    "amount": 20.0
   }
 ]
